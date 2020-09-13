@@ -23,9 +23,9 @@ https://docs.google.com/spreadsheets/d/1MiYUM5Rr0hr_9kbYVNgYzxu88jngsMA9udl1Ox-z
 
 ## Wireframes
 
-- [Mobile](https://github.com/cairait/Project2_frontend/blob/master/bookclub3.jpeg)
-- [Tablet](https://github.com/cairait/Project2_frontend/blob/master/bookclub2.jpeg)
-- [Desktop](https://github.com/cairait/Project2_frontend/blob/master/bookclub1.jpeg)
+- [Mobile](https://github.com/cairait/p4frontend/blob/master/image0%20(5).jpeg)
+- [Tablet](https://github.com/cairait/p4frontend/blob/master/image1%20(3).jpeg)
+- [Desktop](https://github.com/cairait/p4frontend/blob/master/image2%20(1).jpeg)
 
 #### Matrix 
 
