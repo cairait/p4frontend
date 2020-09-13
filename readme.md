@@ -1,31 +1,56 @@
-# This VUE Template
+# Project Overview
 
-## Setup
+## Project Schedule
 
-- Fork This Repo on Github
 
-- Clone it to your computer
+|  Day | Deliverable | Status
+|---|---| ---|
+|Day 1| Project Description & Deploying on Netlify | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
+|Day 4| Core Application Structure (Backend) | Incomplete
+|Day 6| Core Application Structure (Frontend) | Incomplete
+|Day 7| Final Touches | Incomplete
+|Day 8| Present | Incomplete
 
-- cd into folder
 
-- Remove the remote (```git remote rm origin```)
+## Project Description
 
-- run ```npm install```
+My fourth project is dedicated to using the Python and Django skills I learned over the past two weeks. I will be making a to-do app. It will allow the user to create, update, and delete a task.
 
-## Project Reference
+## Google Sheet
 
-This Template includes
+https://docs.google.com/spreadsheets/d/1MiYUM5Rr0hr_9kbYVNgYzxu88jngsMA9udl1Ox-z7Vw/edit#gid=0
 
-- Vue (https://vuejs.org/v2/guide/)
+## Wireframes
 
-- Vue Router (https://router.vuejs.org/)
+- [Mobile](https://github.com/cairait/Project2_frontend/blob/master/bookclub3.jpeg)
+- [Tablet](https://github.com/cairait/Project2_frontend/blob/master/bookclub2.jpeg)
+- [Desktop](https://github.com/cairait/Project2_frontend/blob/master/bookclub1.jpeg)
 
-- Buefy (https://buefy.org/)
+#### Matrix 
 
-## Template Features
+https://github.com/cairait/Project2_frontend/blob/master/bookclubmatrix.jpg
 
-- Premade header and footer component using Buefy/Bulma, put your router links in the header component, customize these to your likings to give your page a consistent layout
+#### MVP
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Mobile/Desktop/Ipad view | H | 4hr | 5hr | 2hr|
+| Task Previews | H | 4hr | 5hr | 4hr|
+| Submit button | H | 4hr | 5hr | 2hr|
+| Adding Submit Section | H | 8hr| 10hr | 10hr |
+| Other sections and flex| M | 10hr | 12hr | 12hr|
+| Backend | H | 4hrs| 5hr | 15hr |
+| Frontend | H | 5hr | 6hr | 6hr|
 
-- Router routes are defined in the router folder, create your pages in the views folder
+| Total | H | 41hrs| 49hrs | 51hrs |
 
-- In the components folder there is a Template.vue which can be copied to make new components
+#### PostMVP
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| task hover | L | 6hr | 10hr | 0hr|
+| Make own logo | L | 10hr | 12hr | 0hr|
+| Total | H | 16hrs| 22hrs | 0hrs |
+
+
+|				
+|TOTAL |	| Estimated 21 hrs	| 39 hrs invested |	 |   
