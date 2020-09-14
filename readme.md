@@ -29,7 +29,7 @@ https://docs.google.com/spreadsheets/d/1MiYUM5Rr0hr_9kbYVNgYzxu88jngsMA9udl1Ox-z
 
 #### Matrix 
 
-https://github.com/cairait/Project2_frontend/blob/master/bookclubmatrix.jpg
+https://github.com/cairait/p4frontend/blob/master/IMG_7727.jpg
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
