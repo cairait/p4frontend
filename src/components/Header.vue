@@ -29,12 +29,8 @@
       <template slot="end">
         <b-navbar-item tag="div">
           <div class="buttons">
-            <a class="button is-primary">
-              <strong>Sign up</strong>
-            </a>
-            <a class="button is-light">
-              Log in
-            </a>
+            <strong>Sign up</strong>
+            <router-link to="/login" v-bind="URL">Log In</router-link>
           </div>
         </b-navbar-item>
       </template>
