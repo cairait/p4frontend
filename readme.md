@@ -7,9 +7,9 @@
 |---|---| ---|
 |Day 1| Project Description & Deploying on Netlify | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 4| Core Application Structure (Backend) | Incomplete
-|Day 6| Core Application Structure (Frontend) | Incomplete
-|Day 7| Final Touches | Incomplete
+|Day 4| Core Application Structure (Backend) | Complete
+|Day 6| Core Application Structure (Frontend) | Complete
+|Day 7| Final Touches | Complete
 |Day 8| Present | Incomplete
 
 
@@ -34,21 +34,21 @@ https://github.com/cairait/p4frontend/blob/master/IMG_7727.jpg
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Mobile/Desktop/Ipad view | H | 4hr | 5hr | hr|
-| Task Previews | H | 4hr | 5hr | hr|
-| Submit button | H | 4hr | 5hr | hr|
-| Adding Submit Section | H | 8hr| 10hr | hr |
-| Other sections | M | 10hr | 12hr | hr|
+| Mobile/Desktop/Ipad view | H | 4hr | 5hr | 5hr|
+| Task Previews | H | 4hr | 5hr | 5hr|
+| Submit button | H | 4hr | 5hr | 5hr|
+| Adding Submit Section | H | 8hr| 10hr | 5hr |
+| Other sections | M | 10hr | 12hr | 5hr|
 
-| Total Frontend | H | 20hrs| hrs | hrs |
+| Total Frontend | H | 20hrs| hrs | 5hrs |
 
 #### PostMVP
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| task hover | L | 6hr | 10hr | 0hr|
+| task hover | L | 6hr | 10hr | 10hr|
 | Make own logo | L | 10hr | 12hr | 0hr|
-| Total | H | 16hrs| 22hrs | 0hrs |
+| Total | H | 16hrs| 22hrs | 15hrs |
 
 
 |				
-|TOTAL |	| Estimated 21 hrs	| 39 hrs invested |	 |   
+|TOTAL |	| Estimated 21 hrs	| 39 hrs invested |	15hrs |   
